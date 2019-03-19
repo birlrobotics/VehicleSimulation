@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: my_car_cmd_pub
+Description: Description of my_car_cmd_pub
+Version: 0.1.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

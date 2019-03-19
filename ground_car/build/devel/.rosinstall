@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/pwz-pc/catkin_ws/src/ground_car/build/devel/setup.sh

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/pwz-pc/catkin_ws/src/my_car_cmd_pub/build/devel/setup.sh

@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: ground_car
+Description: Description of ground_car
+Version: 0.0.1
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: gazebo_ros

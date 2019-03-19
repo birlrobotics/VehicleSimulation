@@ -1,0 +1,8 @@
+prefix=/home/pwz-pc/catkin_ws/src/ground_car/build/devel
+
+Name: ground_car
+Description: Description of ground_car
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/pwz-pc/catkin_ws/src/ground_car/build/devel/lib 
+Requires: gazebo_ros

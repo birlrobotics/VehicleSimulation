@@ -12,7 +12,7 @@ This is ROS packages developed for vehicle simulation which has the VLP-16 lidar
 
 - ROS-kinetic,
 - OpenCV,
-- [Gazebo-9],
+- [Gazebo9](http://gazebosim.org/tutorials?cat=guided_b&tut=guided_b1),
 - gazebo-ros (sudo apt-get install ros-kinetic-gazebo9-ros*),
 - velodyne-driver (sudo apt-get install ros-kinetic-velodyne*),
 

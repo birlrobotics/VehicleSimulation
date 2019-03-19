@@ -1,5 +1,7 @@
 # VehicleSimulation： The simulation enviroment for Student Formula
 
+Peng Wenzheng in ROS lesson.
+
 ## OverView 
 
 This is ROS packages developed for vehicle simulation which has the VLP-16 lidar and single camera. In the following ROS packages you are able to use it on Gazebo-9.
